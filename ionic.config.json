@@ -1,0 +1,7 @@
+{
+  "name": "ionic-modal-item-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
