@@ -7,6 +7,51 @@ import { Component } from '@angular/core';
 })
 export class Tab1Page {
 
-  constructor() {}
+  items = [
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+    'dafdf',
+  ]
+
+  onClick(){
+    console.log('Clicked');
+  }
+
 
 }
